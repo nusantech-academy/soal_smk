@@ -7,9 +7,9 @@ ex: `convertToYears(17) => "6205 year"`
 
 ### Challenge
 ```
-17 => 6205 year
-69 => 25.185 year
-79 => 28.835 year
+17 => 6205 days
+69 => 25.185 days
+79 => 28.835 days
 "asd" => asd is not integer
 ```
 
