@@ -5,11 +5,11 @@ Write a function that takes an integer `hour` and converts it to seconds.
 
 ### Challenge
 ```
-convert(5) ➞ 300
+convert(5) ➞ 18000
 
-convert(3) ➞ 180
+convert(3) ➞ 10800
 
-convert(2) ➞ 120
+convert(2) ➞ 7200
 ```
 
 ## 2. Return the Next Number from the Integer Passed
