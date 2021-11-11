@@ -2,7 +2,7 @@
 - expression will be string of open bracket nor close bracket e.g `({[[()]]})`
 - your function should determine the expression is it correct or not
 - examples:
-  - `({[]})` => true
-  - `([][]{})`=> true
-  - `({)(]){[}` => false
-  - `[)()]` => false
+  - `soal("({[]})")` => true
+  - `soal("([][]{})")`=> true
+  - `soal("({)(]){[}")` => false
+  - `soal("[)()]")` => false
