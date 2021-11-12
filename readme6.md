@@ -1,8 +1,8 @@
 - Endpoint : https://ghibliapi.herokuapp.com/people
 - Create a function that returns a single data from character name filtering
 - findCharacter('Haku') => 
-```{
-	"0": {
+```
+	{
 		"id": "267649ac-fb1b-11eb-9a03-0242ac130003",
 		"name": "Haku",
 		"gender": "Male",
@@ -15,4 +15,4 @@
 		"species": "https://ghibliapi.herokuapp.com/species/e2cfaa78-fb19-11eb-9a03-0242ac130003",
 		"url": "https://ghibliapi.herokuapp.com/people/267649ac-fb1b-11eb-9a03-0242ac130003"
 	}
-}```
+```
