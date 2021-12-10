@@ -6,3 +6,4 @@ Task 1
 5. Create a dynamic route with these data:
    - https://ghibliapi.herokuapp.com/films
    each dynamic page must display image, title, and descriptions.
+6. Styling bonus
